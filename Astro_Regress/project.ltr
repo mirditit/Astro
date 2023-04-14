@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\Administrator\Documents\Astro\Astro_Regress\Main.ltw</Key>
+            <Value>354bc5e8-d8b2-44fb-bdb7-298c80d3817a</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems />
+</LTProjectResources>
